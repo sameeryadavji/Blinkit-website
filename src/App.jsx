@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 import Navbar from './Component/Navbar'
 import Productdata from './Component/Productdata'
-import data from './Utils/data'
+import data from './utils/data'
 
 const App = () => {
  
